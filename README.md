@@ -1,4 +1,4 @@
-# CAPTCHA Recognition Using CNN
+# Convolutional Neural Network for Image Classification (CAPTCHA Recognition Using CNN)
 
 ## Project Overview
 
